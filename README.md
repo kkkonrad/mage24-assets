@@ -1,0 +1,1 @@
+# mage24-assets
